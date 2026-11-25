@@ -8,7 +8,13 @@ total_time: "1.5h"
 
 ## November 24, 2026: First Day Working On My Cyberdeck!
 
-Today I focused on finding the measurements of the case I want to put my cyberdeck into and figuring out what type of hardware I want to put in it. I started out with the measurements and found that the (interior) dimensions are 7 3/8" long, 4 7/32" wide, and a depth of 1 5/16". It is a clamshell case  so those measurements are for each half and the total depth of the whole case is 2 5/8". For the SBC I decided to go with the Orange Pi Zero 2 W with 1.5gb of ram which will allow for a lightweight OS like Armbian which is made for SBCs, for the keyboard I want something perfectly rectangular in order to not leave any weird gaps on the edges and corners of the case and that will take up most of the space for the bottom portion, for the display I originally was thinking of using a 7" display, but after a quick Google search I found out that displays are measured corner to corner rather than by width and I also didn’t account for bezels which will take up some space, so instead I am going to use either a 5” or a 5.5” display which will still fit nicely into my case, for what controls the cursor I want to use a trackball because it is a more unique option than just a trackpad and since it is just a sphere it does not have the ability to scroll so I will use a rotary encoder as the scroll wheel and some extra mechanical keyboard switches will be used for left click and right click. Tomorrow I will focus on finding the exact models of the hardware I will need and make sure everything is compatible with my SBC
+Today I focused on finding the measurements of the case I want to put my cyberdeck into and figuring out what type of hardware I want to put in it. I started out with the measurements and found that the (interior) dimensions are 7 3/8" long, 4 7/32" wide, and a depth of 1 5/16". It is a clamshell case so those measurements are for each half and the total depth of the whole case is 2 5/8". 
+
+For the SBC I decided to go with the Orange Pi Zero 2 W with 1.5gb of ram which will allow for a lightweight OS like Armbian which is made for SBCs. For the keyboard I want something perfectly rectangular in order to not leave any weird gaps on the edges and corners of the case and that will take up most of the space for the bottom portion. 
+
+For the display I originally was thinking of using a 7" display, but after a quick Google search I found out that displays are measured corner to corner rather than by width and I also didn’t account for bezels which will take up some space, so instead I am going to use either a 5” or a 5.5” display which will still fit nicely into my case. 
+
+For what controls the cursor I want to use a trackball because it is a more unique option than just a trackpad and since it is just a sphere it does not have the ability to scroll so I will use a rotary encoder as the scroll wheel and some extra mechanical keyboard switches will be used for left click and right click. Tomorrow I will focus on finding the exact models of the hardware I will need and make sure everything is compatible with my SBC.
 
 ![My Cyberdeck Case](IMG_3099.jpeg)<br>*My Cyberdeck Case*
 
@@ -16,7 +22,7 @@ Today I focused on finding the measurements of the case I want to put my cyberde
 
 ![Rotary Encoder](5171ewsBtKL._AC_UF894,1000_QL80_.jpg)<br>*Rotary Encoder (Scroll Wheel)*
 
-![Trackball](5060-00.jpg)<br>*Trackabll*
+![Trackball](5060-00.jpg)<br>*Trackball*
 
 
 **Total Time Spent: 1.5h**
