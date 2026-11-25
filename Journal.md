@@ -3,7 +3,7 @@ title: "Cyberdeck"
 github: "https://github.com/kaydendougherty5-ai/Cyberdeck"
 description: "I am planning to build a cyberdeck. A cyberdeck is like a (usually) small and portable computer. The reason I am choosing to make one is because unlike a regular phone that you always have with you, a cyberdeck can run a lightweight OS like Armbian which is a Linux distribution and has far more capabilities than a phone's default OS. Another reason I would like to build a cyberdeck is to learn about SBCs and how they can connect to different modules like displays, keyboards, and things like a trackball or a trackpad for mouse movement."
 created_at: "2026-11-24"
-*****total_time: "2h"*****
+total_time: "1.5h"
 ---
 
 ## November 24, 2026: First Day Working On My Cyberdeck!
