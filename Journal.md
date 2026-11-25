@@ -12,11 +12,11 @@ Today I focused on finding the measurements of the case I want to put my cyberde
 
 ![My Cyberdeck Case](IMG_3099.jpeg)<br>*My Cyberdeck Case*
 
-![My Cyberdeck Case](IMG_3100.jpeg)
+![My Cyberdeck Case](IMG_3100.jpeg)<br>*My Cyberdeck Case*
 
-![Rotary Encoder](5171ewsBtKL._AC_UF894,1000_QL80_.jpg)
+![Rotary Encoder](5171ewsBtKL._AC_UF894,1000_QL80_.jpg)<br>*Rotary Encoder (Scroll Wheel)*
 
-![Trackball](5060-00.jpg)
+![Trackball](5060-00.jpg)<br>*Trackabll*
 
 
 **Total Time Spent: 1.5h**
