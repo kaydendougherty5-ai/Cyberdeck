@@ -26,7 +26,7 @@ I found this display on Amazon: [5", 1024 x 600 ips display](https://www.amazon.
 It is meant for a Raspberry Pi, so I think it will be compatible.
 It does appear to be compatible, but when I looked at the product dimensions even though the actual screen would fit there is quite a large bezel causing it to go about an inch above my max width.
 
-#####My case is quite thick so should I look for a different aspect ratio?
+##### My case is quite thick so should I look for a different aspect ratio?
 
 Lets start off by looking at what different aspect ratios exist and are common for displays.
 21:9 and 4:1 appeared when I searched wide aspect ratios, but are they common enough to have an Orange Pi compatible display? 
