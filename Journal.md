@@ -16,13 +16,13 @@ For the display I originally was thinking of using a 7" display, but after a qui
 
 For what controls the cursor I want to use a trackball because it is a more unique option than just a trackpad and since it is just a sphere it does not have the ability to scroll so I will use a rotary encoder as the scroll wheel and some extra mechanical keyboard switches will be used for left click and right click. Tomorrow I will focus on finding the exact models of the hardware I will need and make sure everything is compatible with my SBC.
 
-![My Cyberdeck Case](IMG_3099.jpeg)<br>*My Cyberdeck Case*
+![My Cyberdeck Case](images/IMG_3099.jpeg)<br>*My Cyberdeck Case*
 
-![My Cyberdeck Case](IMG_3100.jpeg)<br>*My Cyberdeck Case*
+![My Cyberdeck Case](images/IMG_3100.jpeg)<br>*My Cyberdeck Case*
 
-![Rotary Encoder](5171ewsBtKL._AC_UF894,1000_QL80_.jpg)<br>*Rotary Encoder (Scroll Wheel)*
+![Rotary Encoder]images/(5171ewsBtKL._AC_UF894,1000_QL80_.jpg)<br>*Rotary Encoder (Scroll Wheel)*
 
-![Trackball](5060-00.jpg)<br>*Trackball*
+![Trackball](images/5060-00.jpg)<br>*Trackball*
 
 
 **Total Time Spent: 1.5h**
