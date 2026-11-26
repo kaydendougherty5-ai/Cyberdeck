@@ -42,9 +42,9 @@ The trackball will go on the right side ~1" from the middle of the width to make
 The mechanical key switches will go right above the trackball side by side like a mouse's buttons.<br><br>
 Because the rotary encoder acts as the scroll wheel it will go either between the key switches or right above them.<br><br>
 The display will go in the top half of the case just like a laptop and I will check the bezel sizes to make sure a 5"-5.5" display can fit<br><br>
-Oh and I cant forget one of the most important parts, the power source! For the power source I will use a usb power bank because that provides 5v and I chose a 10,000 MaH one because that should keep it powered for about 7 hours (powering the Orange Pi and the display) [Power bank](https://a.co/d/0j1Qg3x0)<br>
-I will check for the depth of some displays to see if the Orange Pi Zero 2 W can fit into the top half with the display and if it cannot then it will have to go in the bottom half<br>
-It looks like it would be a tight fit to get the SBC into the top half, so I will leave it in the bottom and I have my keyboard and mouse at the bottom which means less wires will have to go through the hinge<br>
+Oh and I cant forget one of the most important parts, the power source! For the power source I will use a usb power bank because that provides 5v and I chose a 10,000 MaH one because that should keep it powered for about 7 hours (powering the Orange Pi and the display) [Power bank](https://a.co/d/0j1Qg3x0)<br><br>
+I will check for the depth of some displays to see if the Orange Pi Zero 2 W can fit into the top half with the display and if it cannot then it will have to go in the bottom half<br><br>
+It looks like it would be a tight fit to get the SBC into the top half, so I will leave it in the bottom and I have my keyboard and mouse at the bottom which means less wires will have to go through the hinge<br><br>
 
 ### Finding a Display:
 
