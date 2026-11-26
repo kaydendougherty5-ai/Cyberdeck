@@ -15,9 +15,9 @@ The trackball will go on the right side ~1" from the middle of the width to make
 The mechanical key switches will go right above the trackball side by side like a mouse's buttons.<br><br>
 Because the rotary encoder acts as the scroll wheel it will go either between the key switches or right above them.<br><br>
 The display will go in the top half of the case just like a laptop and I will check the bezel sizes to make sure a 5"-5.5" display can fit<br><br>
-Oh and I cant forget one of the most important parts, the power source! For the power source I will use a usb power bank because that provides 5v and I chose a 10,000 MaH one because that should keep it powered for about 7 hours [Power bank](https://a.co/d/0j1Qg3x0)<br><br><br>
-
-I will check for the depth of some displays to see if the Orange Pi 2 W can fit into the top half with the display and if it cannot then it will have to go <br>
+Oh and I cant forget one of the most important parts, the power source! For the power source I will use a usb power bank because that provides 5v and I chose a 10,000 MaH one because that should keep it powered for about 7 hours [Power bank](https://a.co/d/0j1Qg3x0)<br>
+I will check for the depth of some displays to see if the Orange Pi 2 W can fit into the top half with the display and if it cannot then it will have to go in the bottom half<br>
+It looks like it would be a tight fit to get the SBC into the top half, so I will leave it in the bottom and I have my keyboard and mouse at the bottom which means less wires will have to go through the hinge<br>
 
 ### Finding a Display:
 
@@ -51,3 +51,6 @@ with my knowledge of bezels taking up a bit of space I will lower that down to a
 I think I found a good display, but first lets check the refresh rate to make sure its not incredibly slow <br><br>
 Ok good it is 60HZ which will be great for my project.[6.5" display](https://a.co/d/0g706wP9)<br><br>
 For the power it is 5 volts which is perfect because it can be powered by the USB power bank I have linked at the top of the file<br><br>
+The board of the screen has a mini hdmi header I will check if my SBC has one as well.<br><br>
+Okay great the Orange Pi Zero 2 W also has a mini hdmi header so I will not need to buy an adapter<br><br>
+I think that wraps up the display research<br><br>
