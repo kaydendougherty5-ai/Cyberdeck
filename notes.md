@@ -3,9 +3,9 @@
 ## November 25, 2026: Notes For "Specifics and Compatibility":
 
 ### Parts so far:
-Clamshell Case (7 3/8" long, 4 7/32" wide, and 1 5/16" deep) (each half)
-5"-5.5" display
-Rectangular Keyboard
+Clamshell Case (7 3/8" long, 4 7/32" wide, and 1 5/16" deep) (each half)<br>
+5"-5.5" display<br>
+Rectangular Keyboard<br>
 Trackball
 
 ### Where Things Will Fit:
