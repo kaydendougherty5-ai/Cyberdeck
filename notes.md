@@ -1,6 +1,6 @@
 # This .md file is where I will store my notes so I can put the information cleanly into my Journal
 
-## November 25, 2026: Notes For "Specifics and Compatibility":
+## November 25, 2026: Notes For Journal Entry: "Specifics and Compatibility":
 
 ### Parts so far:
 Clamshell Case (7 3/8" long, 4 7/32" wide, and 1 5/16" deep) (each half)<br>
@@ -15,14 +15,14 @@ The trackball will go on the right side ~1" from the middle of the width to make
 The mechanical key switches will go right above the trackball side by side like a mouse's buttons.<br><br>
 Because the rotary encoder acts as the scroll wheel it will go either between the key switches or right above them.<br><br>
 The display will go in the top half of the case just like a laptop and I will check the bezel sizes to make sure a 5"-5.5" display can fit<br><br>
-Oh and I cant forget one of the most important parts, the power source! For the power source I will use a usb power bank because that provides 5v and I chose a 10,000 MaH one because that should keep it powered for about 7 hours [Power bank](https://a.co/d/0j1Qg3x0)<br>
-I will check for the depth of some displays to see if the Orange Pi 2 W can fit into the top half with the display and if it cannot then it will have to go in the bottom half<br>
+Oh and I cant forget one of the most important parts, the power source! For the power source I will use a usb power bank because that provides 5v and I chose a 10,000 MaH one because that should keep it powered for about 7 hours (powering the Orange Pi and the display) [Power bank](https://a.co/d/0j1Qg3x0)<br>
+I will check for the depth of some displays to see if the Orange Pi Zero 2 W can fit into the top half with the display and if it cannot then it will have to go in the bottom half<br>
 It looks like it would be a tight fit to get the SBC into the top half, so I will leave it in the bottom and I have my keyboard and mouse at the bottom which means less wires will have to go through the hinge<br>
 
 ### Finding a Display:
 
 Lets start with the display:<br><br>
-I will look up some 5" displays and see if they are compatible with an Orange Pi 2 W.<br><br>
+I will look up some 5" displays and see if they are compatible with an Orange Pi Zero 2 W.<br><br>
 I found this display on Amazon: [5", 1024 x 600 ips display](https://www.amazon.ca/iPistBit-Capacitive-Touchscreen-Raspberry-Driver-Free/dp/B0FCR5WPV5/ref=asc_df_B0CP3DH3LN?mcid=95bbd2beb6903e91a7f3f4c4bd43c97b&tag=googleshopc0c-20&linkCode=df0&hvadid=706724917431&hvpos=&hvnetw=g&hvrand=17153053587808454353&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9195703&hvtargid=pla-2280483271340&hvcampaign=21500527601&hvocijid=17153053587808454353-B0CP3DH3LN-&hvexpln=0&gad_source=1&th=1)<br><br>
 It is meant for a Raspberry Pi, so I think it will be compatible.<br><br>
 It does appear to be compatible, but when I looked at the product dimensions even though the actual screen would fit there is quite a large bezel causing it to go about an inch above my max width.
@@ -53,4 +53,15 @@ Ok good it is 60HZ which will be great for my project.[6.5" display](https://a.c
 For the power it is 5 volts which is perfect because it can be powered by the USB power bank I have linked at the top of the file<br><br>
 The board of the screen has a mini hdmi header I will check if my SBC has one as well.<br><br>
 Okay great the Orange Pi Zero 2 W also has a mini hdmi header so I will not need to buy an adapter<br><br>
+How is it powered?<br>
+Ok it looks like it requires a 5 volt usb a to power which works great because I can get a cheap usb a to usb a cable to go from the power source to the display<br><br>
 I think that wraps up the display research<br><br>
+
+##### Finding a Keyboard That is 4.5" long and 4" wide:
+
+I found one that is 4.5" x 2.4" [mini wireless keyboard](https://a.co/d/09KXT1yl)<br><br>
+This is wireless, but that is ok because the Orange Pi Zero 2 W has Bluetooth so it can connect and it charges with micro usb so I will need a usb a to micro usb adapter to power it.<br><br>
+This will fit nicely into my case because it perfectly matches my length requirement and less width is not a bad thing either it just means I have more space!<br><br>
+That wraps up my research for a keyboard
+
+##### I Will Continue My Research tomorrow
