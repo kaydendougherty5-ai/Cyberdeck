@@ -10,7 +10,7 @@ Trackball
 
 ### Where Things Will Fit:
 
-The keyboard will go in the bottom half on the left side.<br>
+The keyboard will go in the bottom half on the left side.<br><br>
 The trackball will go on the right side ~1" from the middle of the width to make space for the mechanical key switches.<br>
 The mechanical key switches will go right above the trackball side by side like a mouse's buttons.<br>
 Because the rotary encoder acts as the scroll wheel it will go either between the key switches or right above them.<br>
